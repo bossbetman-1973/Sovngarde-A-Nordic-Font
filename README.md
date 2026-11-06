@@ -185,3 +185,6 @@ This repository serves as the official landing page for **Sovngarde**. The softw
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Sovngarde today!**
+
+---
+**Last updated:** 2026-11-06 12:46:49 UTC
