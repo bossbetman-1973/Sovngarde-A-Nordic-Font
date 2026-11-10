@@ -187,4 +187,4 @@ This repository serves as the official landing page for **Sovngarde**. The softw
 **Get the most recent version of Sovngarde today!**
 
 ---
-**Last updated:** 2026-11-09 18:29:17 UTC
+**Last updated:** 2026-11-10 01:54:41 UTC
